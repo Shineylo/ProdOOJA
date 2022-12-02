@@ -4,14 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="038c1280-d02a-4ac6-bcd1-233dc77f04ba" name="Changes" comment="Revert &quot;Added prixToString&quot;&#10;&#10;This reverts commit 0989575c">
-      <change afterPath="$PROJECT_DIR$/src/stock/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stock/exceptions/ArticleInconnuException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stock/exceptions/PasAssezDeStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stock/exceptions/StockPleinException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Outil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thibault/util/Outils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +14,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Thibault" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
   </component>
@@ -82,7 +80,42 @@
       <option name="project" value="LOCAL" />
       <updated>1669978973463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding Products">
+      <created>1669984930271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669984930271</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Branch">
+      <created>1669985107127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669985107127</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Modif Package Organisation">
+      <created>1669985421040</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669985421040</updated>
+    </task>
+    <task id="LOCAL-00008" summary="All Products Done">
+      <created>1669987337178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669987337178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Toxicity on Product fresh and toxic">
+      <created>1669987708441</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669987708441</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +145,11 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Test" />
     <MESSAGE value="Adding diff empty files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding diff empty files" />
+    <MESSAGE value="Adding Products" />
+    <MESSAGE value="Adding Branch" />
+    <MESSAGE value="Modif Package Organisation" />
+    <MESSAGE value="All Products Done" />
+    <MESSAGE value="Add Toxicity on Product fresh and toxic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Toxicity on Product fresh and toxic" />
   </component>
 </project>
