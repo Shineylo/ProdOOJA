@@ -19,4 +19,11 @@ public class ProduitToxique extends Produit implements Toxique {
     public void setToxicite(int toxicite) {
         this.toxicite = toxicite;
     }
+
+    //<========================= Interface Toxique =========================>
+
+    @Override
+    public int getDoseLetale() {
+        return this.toxicite;
+    }
 }
