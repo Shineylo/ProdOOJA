@@ -1,0 +1,102 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"038c1280-d02a-4ac6-bcd1-233dc77f04ba\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/produit/clazz/ProduitFrais.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/produit/clazz/ProduitFrais.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"Interface\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Thibault\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2IM51dzHocENFn0qaZXbWsw1daP\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"shared-indexes\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"038c1280-d02a-4ac6-bcd1-233dc77f04ba\" name=\"Changes\" comment=\"\" />\r\n      <created>1669978398613</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1669978398613</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Init\">\r\n      <created>1669978568730</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669978568730</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Init\">\r\n      <created>1669978807840</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669978807840</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Test\">\r\n      <created>1669978890147</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669978890147</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Adding diff empty files\">\r\n      <created>1669978973463</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669978973463</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Adding Products\">\r\n      <created>1669984930271</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669984930271</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Adding Branch\">\r\n      <created>1669985107127</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669985107127</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Modif Package Organisation\">\r\n      <created>1669985421040</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669985421040</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"All Products Done\">\r\n      <created>1669987337178</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669987337178</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Add Toxicity on Product fresh and toxic\">\r\n      <created>1669987708441</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669987708441</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Init\" />\r\n    <MESSAGE value=\"Test\" />\r\n    <MESSAGE value=\"Adding diff empty files\" />\r\n    <MESSAGE value=\"Adding Products\" />\r\n    <MESSAGE value=\"Adding Branch\" />\r\n    <MESSAGE value=\"Modif Package Organisation\" />\r\n    <MESSAGE value=\"All Products Done\" />\r\n    <MESSAGE value=\"Add Toxicity on Product fresh and toxic\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add Toxicity on Product fresh and toxic\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a507b7b4c019086365acc301409767163fa1ff90)
++++ b/.idea/workspace.xml	(date 1669989797708)
+@@ -5,8 +5,15 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="038c1280-d02a-4ac6-bcd1-233dc77f04ba" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/src/Bryan/Main.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/Produit.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitFrais.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitFraisNonToxic.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitFraisToxic.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitNonToxic.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitToxic.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/produit/clazz/ProduitFrais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/produit/clazz/ProduitFrais.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Bryan/Test.java" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -17,16 +24,10 @@
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="Class" />
+-        <option value="Interface" />
+       </list>
+     </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-      <map>
+-        <entry key="$PROJECT_DIR$" value="Thibault" />
+-      </map>
+-    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+@@ -82,42 +83,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1669978973463</updated>
+     </task>
+-    <task id="LOCAL-00005" summary="Adding Products">
+-      <created>1669984930271</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669984930271</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="Adding Branch">
+-      <created>1669985107127</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669985107127</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="Modif Package Organisation">
+-      <created>1669985421040</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669985421040</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="All Products Done">
+-      <created>1669987337178</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669987337178</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="Add Toxicity on Product fresh and toxic">
+-      <created>1669987708441</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1669987708441</updated>
+-    </task>
+-    <option name="localTasksCounter" value="10" />
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -135,11 +101,6 @@
+     <MESSAGE value="Init" />
+     <MESSAGE value="Test" />
+     <MESSAGE value="Adding diff empty files" />
+-    <MESSAGE value="Adding Products" />
+-    <MESSAGE value="Adding Branch" />
+-    <MESSAGE value="Modif Package Organisation" />
+-    <MESSAGE value="All Products Done" />
+-    <MESSAGE value="Add Toxicity on Product fresh and toxic" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Add Toxicity on Product fresh and toxic" />
++    <option name="LAST_COMMIT_MESSAGE" value="Adding diff empty files" />
+   </component>
+ </project>
+\ No newline at end of file

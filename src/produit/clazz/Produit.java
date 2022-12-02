@@ -1,4 +1,4 @@
-package Bryan.clazz;
+package produit.clazz;
 
 public abstract class Produit {
     private final String nom;
@@ -13,6 +13,7 @@ public abstract class Produit {
     }
 
     //<========================= Getter / Setter =========================>
+
     public String getNom() {
         return nom;
     }

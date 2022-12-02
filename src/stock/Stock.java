@@ -1,10 +1,9 @@
 package stock;
 
+import produit.clazz.Produit;
 import stock.exceptions.ArticleInconnuException;
 import stock.exceptions.PasAssezDeStockException;
 import stock.exceptions.StockPleinException;
-import util.Produit;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -58,7 +57,6 @@ public class Stock<P extends Produit> {
         return qt;
     }
 
-    // TODO: toString, getValeurTotale
     public void ajouter(P p, int qt) {
         checkArgumentPlusGrandQueZero(qt);
         ajoutQtUtilise(qt);
