@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="038c1280-d02a-4ac6-bcd1-233dc77f04ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bryan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/Produit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitFrais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitFraisNonToxic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitFraisToxic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitNonToxic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bryan/clazz/ProduitToxic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bryan/Test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="038c1280-d02a-4ac6-bcd1-233dc77f04ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Thibault" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -83,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669978973463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding Products">
+      <created>1669984930271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669984930271</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Branch">
+      <created>1669985107127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669985107127</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +110,8 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Test" />
     <MESSAGE value="Adding diff empty files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding diff empty files" />
+    <MESSAGE value="Adding Products" />
+    <MESSAGE value="Adding Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Branch" />
   </component>
 </project>

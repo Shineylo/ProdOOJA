@@ -1,4 +1,4 @@
-package Bryan.clazz;
+package clazz;
 
 public abstract class ProduitFrais extends Produit {
     private int temperature;

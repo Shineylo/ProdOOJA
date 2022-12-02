@@ -1,4 +1,4 @@
-package Bryan.clazz;
+package clazz;
 
 public abstract class Produit {
     private final String nom;
