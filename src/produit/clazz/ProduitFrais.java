@@ -15,7 +15,7 @@ public abstract class ProduitFrais extends Produit {
         return temperature;
     }
 
-    public void setTemperature(int t) {
+    public void setTemperature(int temperature) {
         this.temperature = temperature;
     }
 }
