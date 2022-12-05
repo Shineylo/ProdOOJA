@@ -124,14 +124,7 @@
       <option name="project" value="LOCAL" />
       <updated>1669994099443</updated>
     </task>
-    <task id="LOCAL-00011" summary="Start Main">
-      <created>1670227563132</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1670227563132</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +153,6 @@
     <MESSAGE value="All Products Done" />
     <MESSAGE value="Add Toxicity on Product fresh and toxic" />
     <MESSAGE value="Cleaning" />
-    <MESSAGE value="Start Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning" />
   </component>
 </project>

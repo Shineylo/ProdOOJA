@@ -28,10 +28,6 @@ public class Stock<P extends Produit> {
         return adresse;
     }
 
-    public Map<P, Integer> getStock() {
-        return stock;
-    }
-
     public int getQtUtilise() {
         return qtUtilise;
     }
