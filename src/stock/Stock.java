@@ -4,6 +4,8 @@ import produit.clazz.Produit;
 import stock.exceptions.ArticleInconnuException;
 import stock.exceptions.PasAssezDeStockException;
 import stock.exceptions.StockPleinException;
+import util.Outil;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -109,11 +111,11 @@ public class Stock<P extends Produit> {
                         .append(", Quantité: ")
                         .append(e.getValue())
                         .append(", Prix total: ")
-                        .append(Stock.entryPrix(e))
+                        .append(Outil.prixToString(Stock.entryPrix(e)))
                         .append("\n")
         );
         stringBuilder.append("Prix total de tous les articles: ")
-                .append(getValeurTotale())
+                .append(Outil.prixToString(getValeurTotale()))
                 .append("\n");
         return stringBuilder.toString();
     }
